@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I am Pooja <br>currently pursuing my masters degress in Data science with professional 3.9 years of experience in QA Automation
+Hey there, I am Pooja <br>masters degress in Data science graduate with professional 3.9 years of experience in QA Automation
 
 
 ## 🌐 Socials:
