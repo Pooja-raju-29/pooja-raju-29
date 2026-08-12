@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hey there, I am Pooja <br>masters degress in Data science graduate with professional 3.9 years of experience in QA Automation
-
+Hey there, I am Pooja <br>🎓 M.Sc. Data Science graduate | Berlin, Germany
+🔍 Focused on building end-to-end ML pipelines with rigorous evaluation
+💳 Thesis: designed & evaluated 60 ML pipelines for credit card fraud detection on imbalanced data (best PR-AUC: 0.81)
+🛡️ Also worked on network intrusion detection (KDDCUP99) using SMOTE, oversampling & RandomizedSearchCV
+🧪 4 years as a QA Automation Engineer at Finastra-LoanIQ
+📍 Based in Berlin, open to opportunities across Germany
+📫 Reach me: mbpoojaraju012@gmail.com | LinkedIn:Pooja Medigeshi Basavaraju
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poojamb29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbpoojaraju012@gmail.com) 
