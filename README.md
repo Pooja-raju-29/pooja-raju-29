@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hey there, I am Pooja <br>🎓 M.Sc. Data Science graduate | Berlin, Germany
-🤖 Focused on Machine Learning, Generative AI, LLMs, RAG, and end-to-end AI applications.
-💻 Nearly 4 years of professional experience as a QA Automation Engineer at Finastra(LOAN IQ), a fintech company.
-💳 Thesis: designed & evaluated 60 ML pipelines for credit card fraud detection on imbalanced data (best PR-AUC: 0.81)
-🚀 Building hands-on projects using Python, FastAPI, Docker, scikit-learn, FAISS, and CI pipelines.
-🌱 Actively contributing to open-source projects and strengthening my AI engineering skills.
-📍 Based in Berlin, open to opportunities across Germany
+Hey there, I am Pooja <br>🎓 M.Sc. Data Science graduate | Berlin, Germany <br>
+🤖 Focused on Machine Learning, Generative AI, LLMs, RAG, and end-to-end AI applications.<br>
+💻 Nearly 4 years of professional experience as a QA Automation Engineer at Finastra(LOAN IQ), a fintech company.<br>
+💳 Thesis: designed & evaluated 60 ML pipelines for credit card fraud detection on imbalanced data (best PR-AUC: 0.81) <br>
+🚀 Building hands-on projects using Python, FastAPI, Docker, scikit-learn, FAISS, and CI pipelines. <br>
+🌱 Actively contributing to open-source projects and strengthening my AI engineering skills. <br>
+📍 Based in Berlin, open to opportunities across Germany <br>
 📫 Reach me: Email:mbpoojaraju012@gmail.com | LinkedIn:Pooja Medigeshi Basavaraju
 
 ## 🚀 Featured Projects
