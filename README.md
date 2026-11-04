@@ -1,11 +1,47 @@
 # 💫 About Me:
 Hey there, I am Pooja <br>🎓 M.Sc. Data Science graduate | Berlin, Germany
-🔍 Focused on building end-to-end ML pipelines with rigorous evaluation
+🤖 Focused on Machine Learning, Generative AI, LLMs, RAG, and end-to-end AI applications.
+💻 Nearly 4 years of professional experience as a QA Automation Engineer at Finastra(LOAN IQ), a fintech company.
 💳 Thesis: designed & evaluated 60 ML pipelines for credit card fraud detection on imbalanced data (best PR-AUC: 0.81)
-🛡️ Also worked on network intrusion detection (KDDCUP99) using SMOTE, oversampling & RandomizedSearchCV
-🧪 4 years as a QA Automation Engineer at Finastra-LoanIQ
+🚀 Building hands-on projects using Python, FastAPI, Docker, scikit-learn, FAISS, and CI pipelines.
+🌱 Actively contributing to open-source projects and strengthening my AI engineering skills.
 📍 Based in Berlin, open to opportunities across Germany
-📫 Reach me: mbpoojaraju012@gmail.com | LinkedIn:Pooja Medigeshi Basavaraju
+📫 Reach me: [Email](mailto:mbpoojaraju012@gmail.com) | [LinkedIn](www.linkedin.com/in/poojamb29)
+
+## 🚀 Featured Projects
+
+### 🤖 RAG Document Assistant | Generative AI
+**Tech Stack:** Python, Gemini API, FAISS, FastAPI, Streamlit, Docker, GitHub Actions
+
+- Built an end-to-end Retrieval-Augmented Generation (RAG) application for question answering over technical PDF documents.
+- Implemented document extraction, chunking, embeddings, vector search, and LLM-based answer generation with source references.
+- Developed REST API endpoints using FastAPI and an interactive Streamlit interface.
+- Containerized the application with Docker and implemented automated CI checks using GitHub Actions.
+
+### 💳 Credit Card Fraud Detection | Machine Learning
+**Tech Stack:** Python, scikit-learn, XGBoost, Pandas, SMOTE, FastAPI
+
+- Designed and evaluated 60 ML pipeline configurations for highly imbalanced credit card fraud detection.
+- Applied feature engineering, chronological train-test splitting, and multiple imbalance-handling techniques.
+- Achieved a best PR-AUC of **0.8107**, precision of **0.8871**, and recall of **0.7432**.
+- Developed a FastAPI inference application for serving fraud predictions.
+
+### 🔍 Production Incident Diagnosis | ML & Log Analytics
+**Tech Stack:** Python, Pandas, Matplotlib, Log Parsing
+
+- Developing a production incident diagnosis system using real-world OpenStack logs.
+- Implemented log ingestion, parsing, structured preprocessing, and exploratory analysis.
+- Analyzed log severity distributions and component-level patterns to support incident investigation.
+
+**Status:** In Progress
+
+### 🌍 Open-Source Contributions | Python & API Engineering
+**Tech Stack:** Python, FastAPI, Pytest, Git, GitHub Actions
+
+- Contributed to a transaction-policy validation project.
+- Implemented JSON serialization for transaction decisions.
+- Developed FastAPI endpoints and unit tests for transaction-policy checks.
+- Practiced Git branching, pull requests, code review, and automated testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poojamb29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbpoojaraju012@gmail.com) 
