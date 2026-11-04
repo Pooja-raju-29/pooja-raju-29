@@ -6,7 +6,7 @@ Hey there, I am Pooja <br>🎓 M.Sc. Data Science graduate | Berlin, Germany
 🚀 Building hands-on projects using Python, FastAPI, Docker, scikit-learn, FAISS, and CI pipelines.
 🌱 Actively contributing to open-source projects and strengthening my AI engineering skills.
 📍 Based in Berlin, open to opportunities across Germany
-📫 Reach me: [Email](mailto:mbpoojaraju012@gmail.com) | [LinkedIn](www.linkedin.com/in/poojamb29)
+📫 Reach me: Email:mbpoojaraju012@gmail.com | LinkedIn:Pooja Medigeshi Basavaraju
 
 ## 🚀 Featured Projects
 
